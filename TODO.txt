@@ -1,0 +1,2 @@
+THINGS TO DO:
+-Remove all references to my application that are still in there. Continue to make this work as a standalone.
